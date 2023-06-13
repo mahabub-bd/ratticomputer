@@ -4,7 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 
 
 export const metadata = {
-  title: "Mahi Computer",
+  title: "রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট",
   description: "Tranning Center",
 };
 

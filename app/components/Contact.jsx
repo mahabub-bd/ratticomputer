@@ -16,11 +16,16 @@ const Contact = () => {
               আপনার প্রতিক্রিয়া, অভিযোগ এবং পরামর্শের জন্য আমাদের সাথে যোগাযোগ
               করুন
             </p>
-            <p className=" text-[18px] font-bangla leading-normal">
-              মোবাইল নাম্বার - 01711102944
+            <p className=" text-[22px] font-bangla leading-normal mb-3 text-blue-600">
+              রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট
+            </p>
+
+            <p className=" text-[18px] font-bangla font-semibold leading-normal">
+              এম. এ মান্নান টাওয়ার (৩য় তলা), পলাশবাড়ী (বাসস্ট্যান্ড),
+              আশুলিয়া, সাভার, ঢাকা।
             </p>
             <p className=" text-[18px] font-bangla leading-normal">
-              ক-৬৫, শাহাজাদপুর, গুলশান ,ঢাকা
+              মোবাইল নাম্বার - 01731-405002
             </p>
           </div>
           <div className="w-full " data-aos="fade-left">

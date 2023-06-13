@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@500;600;700;800;900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,6 +11,8 @@
 
   font-family: "Hind Siliguri", sans-serif;
   font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: 'Noto Sans Bengali', sans-serif;
+
 }
 
 .hero {
@@ -130,19 +134,19 @@
   }
 }
 
-.bg-stat-1 {
+.bg-stat-4 {
   background-color: rgba(236, 248, 236, 1);
 }
 
-.bg-stat-2 {
+.bg-stat-3 {
   background-color: rgba(238, 246, 250, 1);
 }
 
-.bg-stat-3 {
+.bg-stat-2 {
   background-color: rgba(255, 243, 237, 1);
 }
 
-.bg-stat-4 {
+.bg-stat-1 {
   background-color: rgba(254, 236, 244, 1);
 }
 

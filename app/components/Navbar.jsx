@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <div className="scroll-mt-[200px] font-bangla">
       <div
-        className={` border-b-[1px] border-b-[#feeacd] sm:flex hidden bg-[#07294D] `}
+        className={` border-b-[1px] border-b-[#feeacd] sm:flex hidden bg-blue-900 `}
       >
         <div className={`${styles.boxWidth} flex justify-between py-2 `}>
           <div className="flex ">
@@ -25,18 +25,19 @@ const Navbar = () => {
             <span className="ml-2">
               <a
                 className="font-light  text-slate-100 text-[18px]"
-                href="tel:8801711102944"
+                href="tel:8801731-405002
+"
               >
-                +8801711102944
+                +8801731-405002
               </a>
             </span>
             <Image src={email} alt="phone_icon" className="w-[16px] ml-4" />
             <span className="ml-2">
               <a
                 className=" text-[18px] text-slate-100 font-light"
-                href="mailto: info@mahicomputerbd.com"
+                href="mailto: info@rattibd.com"
               >
-                info@mahicomputerbd.com
+                info@rattibd.com
               </a>
             </span>
           </div>
@@ -72,7 +73,7 @@ const Navbar = () => {
             <Image
               src={logo}
               alt="qpay__headerlogo"
-              className="w-[130px] h-[62px] object-contain"
+              className="w-[60px]  object-contain"
               priority
             />
           </Link>

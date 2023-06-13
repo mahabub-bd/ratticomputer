@@ -14,16 +14,12 @@ const Hero = () => {
           <h2
             className={`${styles.heading2}  text-white font-bangla animate-charcter xl:text-[50px] xl:py-10 xs:py-4 mt-3 text-center`}
           >
-            মাহি কম্পিউটার ট্রেনিং ইনস্টিটিউট
+            রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট
           </h2>
           <p
             className={` xl:text-[24px]  mt-5 xl:leading-12 vxs:text-[18px] vxs:leading-8 text-blue-900 font-bangla   p-3 max-w-[900px] text-justify `}
           >
-            আমরা সব কোর্সের অ্যাডভান্স লেভেল শেখাচ্ছি এবং আমরা সঠিকভাবে সব
-            কোর্সের যত্ন নেই । ঢাকা জেলার গুলশান, ভাটারা , বাড্ডা থানায় এই
-            ট্রেনিং সেন্টারটি খুবই বিখ্যাত । আমরা বিশ্বাস করি 85% প্রাক্টিক্যাল
-            কাজই সেরা প্রশিক্ষণ। আমরা সর্বোত্তম শিক্ষা দেওয়ার প্রতিশ্রুতি
-            প্রদান করি।
+           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod dolorum pariatur tenetur nesciunt itaque labore quam fugiat et praesentium error dolorem distinctio, hic perferendis veritatis doloremque. Omnis voluptatum nihil at alias dolorum, corporis tenetur rerum praesentium vitae in quos accusantium explicabo enim possimus .
           </p>
 
           <p
