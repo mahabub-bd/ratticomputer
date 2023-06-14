@@ -21,20 +21,20 @@ const Navbar = () => {
       >
         <div className={`${styles.boxWidth} flex justify-between py-2 `}>
           <div className="flex ">
-            <Image src={phone} alt="phone_icon" className="w-[16px]" />
+            <Image src={phone} alt="phone_icon" className="w-[14px]" />
             <span className="ml-2">
               <a
-                className="font-light  text-slate-100 text-[18px]"
+                className="font-light  text-slate-100 text-[16px]"
                 href="tel:8801731-405002
 "
               >
                 +8801731-405002
               </a>
             </span>
-            <Image src={email} alt="phone_icon" className="w-[16px] ml-4" />
+            <Image src={email} alt="phone_icon" className="w-[14px] ml-4" />
             <span className="ml-2">
               <a
-                className=" text-[18px] text-slate-100 font-light"
+                className=" text-[16px] text-slate-100 font-light"
                 href="mailto: info@rattibd.com"
               >
                 info@rattibd.com

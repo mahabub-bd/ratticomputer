@@ -41,12 +41,5 @@ export const gallery = [
     alt: "gallery_8",
   },
 
-  {
-    img: gallery_9,
-    alt: "gallery_9",
-  },
-  {
-    img: gallery_10,
-    alt: "gallery_10",
-  },
+ 
 ];
