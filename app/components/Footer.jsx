@@ -1,5 +1,5 @@
 "use client";
-import { logodark, email, phone, location } from "@/public";
+import { logodark, email, phone, location, logo } from "@/public";
 import Image from "next/image";
 import Link from "next/link";
 import { footerLinks, socialMedia } from "../constants";
@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="flex flex-1 flex-col w-full xl:justify-start  lg:justify-start  lg:items-start xl:items-start vxs:justify-center vxs:items-center mr-10  md:w-full">
             <Link href="/">
               <Image
-                src={logodark}
+                src={logo}
                 alt="footer__logo"
                 className="w-[166px] md:w-[80px]xs:w-[60px] h-[72px] object-contain"
                 priority
