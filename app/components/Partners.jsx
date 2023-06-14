@@ -16,7 +16,7 @@ const Partners = () => (
           className="xs:w-[210px] xl:w-[240px]  m-2 rounded-lg   hover:cursor-pointer"
         >
           <div
-            href={item.des}
+            href={item.alt}
             className="flex flex-col  justify-around items-center flex-wrap p-3 "
           >
             <Image

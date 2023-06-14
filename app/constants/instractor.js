@@ -4,12 +4,11 @@ import { instractor1, instractor2, instractor3, instractor4, instractor5 } from 
 export const instractor = [
   {
     img: instractor1,
-    name: "Moniruzzaman",
-    des: "CEO & Founder",
-    
+    name: "মোঃ সাকিরুল ইসলাম",
+    des: "পরিচালক ও অধ‍্যক্ষ",
   },
   {
-    img: instractor2,
+    img: instractor1,
     name: "Mokramin Hossain",
     des: "ICT Teacher",
   },
@@ -19,7 +18,7 @@ export const instractor = [
     des: "Office Application ",
   },
   {
-    img: instractor4,
+    img: instractor1,
     name: "Jon Doe",
     des: "Graphics Designer",
   },

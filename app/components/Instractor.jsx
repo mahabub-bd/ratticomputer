@@ -23,11 +23,11 @@ const Instractor = () => {
               className="flex flex-col  justify-around flex-wrap p-3 "
             >
               <Image
-                className="w-[250px] h-[250px]  shadow-2xl rounded-xl"
+                className="w-[250px] h-[250px]  shadow-2xl rounded-md"
                 src={item.img}
                 alt={item.des}
               />
-              <h3 className="text-mahitwo text-center   mt-5 font-bold text-[20px]">
+              <h3 className="text-mahitwo text-center   mt-5 font-bold text-[18px]">
                 {item.name}
               </h3>
               <h4 className="text-mahithree text-center mt-2  text-[16px]">{item.des}</h4>

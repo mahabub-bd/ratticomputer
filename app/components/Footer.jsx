@@ -28,20 +28,20 @@ const Footer = () => {
               className={`${styles.paragraph} mt-2 max-w-[310px] text-white flex`}
             >
               <Image src={phone} alt="phone_icon" className="w-[18px] mr-3" />
-              <a className=" text-[16px]" href="tel:+8801711102944">
-                +8801711102944
+              <a className=" text-[16px]" href="tel:+88017314050002">
+                +8801731405002
               </a>
             </div>
             <div
               className={`${styles.paragraph} mt-2 max-w-[310px] text-white flex`}
             >
               <Image src={email} alt="phone_icon" className="w-[18px] mr-3" />
-              <a className="text-[16px]" href="mailto:info@mahicomputerbd.com">
-                info@mahicomputerbd.com
+              <a className="text-[16px]" href="mailto:info@rattibd.com">
+                info@rattibd.com
               </a>
             </div>
             <div
-              className={`${styles.paragraph} mt-2 max-w-[400px] text-white flex`}
+              className={`${styles.paragraph} mt-2 max-w-[500px] text-white flex`}
             >
               <Image
                 src={location}
@@ -49,7 +49,7 @@ const Footer = () => {
                 className="w-[18px] mr-3"
               />
               <a className="text-[16px]">
-                Ka-65 Shahajadpur, Gulshan, Dhaka-1212
+                M. A MANNAN TOWER, Palashbari, Ashulia, Savar, Dhaka
               </a>
             </div>
           </div>
@@ -83,7 +83,7 @@ const Footer = () => {
           className={`${styles.boxWidth}  flex items-center justify-between vxs:flex-col-reverse lg:flex-row-reverse xl:flex-row-reverse   pt-6 border-t-[1px] border-t-[#3F3E45]`}
         >
           <p className="font-poppins font-light text-[14px] leading-[27px] text-white vxs:mt-4 xl:mt-0">
-            © 2023 Mahi Computer All Rights Reserved
+            © 2023 Rashida Ahmed Technical Training Center All Rights Reserved
           </p>
 
           <div className="flex flex-row  md:mt-4 mt-6 md:justify-center  xl:justify-end ">
@@ -103,6 +103,12 @@ const Footer = () => {
             ))}
           </div>
         </div>
+        <a
+          href="https://mahabub.me"
+          className="font-poppins font-light text-center text-[14px] leading-[27px] text-white vxs:mt-4 xl:mt-0"
+        >
+          Designed & Develop By Mahabub Hossain
+        </a>
       </section>
     </>
   );

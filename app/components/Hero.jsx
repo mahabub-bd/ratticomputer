@@ -12,12 +12,12 @@ const Hero = () => {
       <div className={`${styles.boxWidth} z-100`}>
         <div className={`${styles.flexCenter} flex-col justify-between`}>
           <h2
-            className={`${styles.heading2}  text-white font-bangla animate-charcter xl:text-[50px] xl:py-10 xs:py-4 mt-3 text-center`}
+            className={`${styles.heading2}  text-white font-bangla animate-charcter xl:text-[46px] xl:py-6 xs:py-4 mt-3 text-center`}
           >
             রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট
           </h2>
           <p
-            className={` xl:text-[24px]  mt-5 xl:leading-12 vxs:text-[18px] vxs:leading-8 text-blue-900 font-bangla   p-3 max-w-[900px] text-justify `}
+            className={` xl:text-[24px]  mt-3 xl:leading-12 vxs:text-[18px] vxs:leading-8 text-blue-900 font-bangla   p-3 max-w-[900px] text-justify `}
           >
            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod dolorum pariatur tenetur nesciunt itaque labore quam fugiat et praesentium error dolorem distinctio, hic perferendis veritatis doloremque. Omnis voluptatum nihil at alias dolorum, corporis tenetur rerum praesentium vitae in quos accusantium explicabo enim possimus .
           </p>
@@ -28,7 +28,7 @@ const Hero = () => {
             কোর্স মেয়াদ: ০৩ মাস, ০৬ মাস, এক বছর
           </p>
 
-          <Button styles="my-10 font-bangla ">শুরু করুন</Button>
+          <Button styles="my-8 font-bangla ">শুরু করুন</Button>
         </div>
       </div>
 

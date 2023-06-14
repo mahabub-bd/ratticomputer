@@ -8,12 +8,6 @@ import logodark from "./images/logo_white.webp";
 
 import paymentapp from "./images/payment.webp";
 
-
-
-
-
-
-
 import facebook from "./images/facebook.svg";
 
 import twitter from "./images/twitter.svg";
@@ -21,11 +15,6 @@ import twitter from "./images/twitter.svg";
 import linkedin from "./images/linkedin.svg";
 
 import instagram from "./images/instagram.svg";
-
-
-
-
-
 
 import uparrow from "./images/up-arrow.svg";
 
@@ -35,7 +24,7 @@ import phone from "./images/phone.svg";
 
 import email from "./images/email.svg";
 
-import ui from "./images/ui.png";
+
 
 import webdesign from "./images/webdesign.png";
 
@@ -43,13 +32,15 @@ import graphics from "./images/graphics.png";
 
 import cad from "./images/auto-cad.webp";
 
-import office from "./images/office.png";
+import office from "./images/office-application.png";
 
 import app from "./images/development.png";
 
 import hardware from "./images/computer.png";
 
-import digital from "./images/seo.png";
+import digital from "./images/social-media.png";
+
+import mechanic from "./images/mechanic.png";
 
 import english from "./images/teacher.png";
 
@@ -73,15 +64,24 @@ import student3 from "./images/people03.png";
 
 import courseweb from "./images/courseweb.webp";
 
+import computer from "./images/computer.png"
+
 import lessonimg from "./images/chapter.png";
 
 import day from "./images/clock.png";
 
 import signal from "./images/signal.png";
 
-import autocad from "./images/autocad.jpg";
+import autocad from "./images/cad.png";
+ 
+import care from "./images/donation.png"
 
-import computer from "./images/hardware.jpg";
+import dressmake from "./images/sewing.png"
+
+import korean from "./images/korean.png"
+
+import housewiring from "./images/broken-wire.png"
+
 import shape from "./images/shape.svg";
 
 import shape2 from "./images/shape-2.svg";
@@ -115,7 +115,7 @@ import bteb from "./images/bteb.png";
 import gov from "./images/gov.png";
 
 export {
-
+  computer,
   nrb,
   mtb,
   bteb,
@@ -126,22 +126,20 @@ export {
   location,
   uparrow,
   downarrow,
-  
- 
- 
-
+  mechanic,
   menu,
   close,
   logo,
   logodark,
-
   facebook,
   twitter,
   instagram,
   linkedin,
 
-  ui,
   webdesign,
+  care,housewiring,
+  korean,
+  dressmake,
   graphics,
   cad,
   office,
@@ -164,7 +162,7 @@ export {
   day,
   signal,
   autocad,
-  computer,
+
   shape,
   shape2,
   gallery_1,

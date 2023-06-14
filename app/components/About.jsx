@@ -4,7 +4,7 @@ import styles from "../styles/style";
 
 const About = () => {
   return (
-    <div className="qx-section-29 " id="about">
+    <div className id="about">
       <section className={`${styles.boxWidth} ${styles.paddingY} mx-auto`}>
         <h2 className={`text-center ${styles.heading2} font-bangla `}>
           রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট সম্পর্কে
@@ -13,17 +13,15 @@ const About = () => {
         <div className={`flex md:flex-row flex-col ${styles.paddingY}`}>
           <div
             className="flex flex-col flex-1 xl:px-0 sm:px-16 px-6"
-            data-aos="fade-right"
+            data-aos="fade-left"
           >
-            <p
-              className={`${styles.paragraph} mt-5 text-justify  font-bangla `}
-            >
+            <p className={`${styles.paragraph} mt-5 text-justify font-bangla`}>
               কোন দেশের সম্পদ হল দক্ষ জনশক্তি , তাই দক্ষ জনশক্তি গড়ার লক্ষ্য
               ২০১০ সালে রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট গঠন করা হয় ।
               এখানে বিভিন্ন বিষয়ে ব্যবহারিক প্রশিক্ষন দেওয়া হয় । রাশিদা আহম্মেদ
               কারিগরি ট্রেনিং ইনস্টিটিউট কারিগরি শিক্ষাবোর্ড কর্তৃক অনুমোদিত
               প্রতিষ্ঠান। প্রশিক্ষন শেষে কারিগরি শিক্ষাবোর্ডের অধীনে পরীক্ষার
-              মাধ্যমে সরকারী সার্টিফিকেট প্রদান করা হয়। 
+              মাধ্যমে সরকারী সার্টিফিকেট প্রদান করা হয়।
             </p>
 
             <p className={`${styles.paragraph} mt-5 text-justify font-bangla`}>
@@ -38,7 +36,7 @@ const About = () => {
           </div>
           <div
             className={`flex flex-1 items-center xl:justify-end vxs:justify-center `}
-            data-aos="fade-left"
+            data-aos="fade-right"
           >
             <Image
               src={paymentapp}

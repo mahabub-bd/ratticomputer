@@ -35,7 +35,7 @@ const Contact = () => {
       </div>
       <div className=" absolute shape-1"></div>
       <div className=" absolute shape-2"></div>
-      <div className=" absolute shape-3"></div>
+     
     </div>
   );
 };
