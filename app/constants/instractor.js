@@ -1,4 +1,4 @@
-import { instractor1, instractor2, instractor3, instractor4, instractor5, instractor6 } from "@/public";
+import { instractor1, instractor2, instractor3, instractor4, instractor5, instractor6, instractor7, instractor8 } from "@/public";
 
 
 export const instractor = [
@@ -32,5 +32,17 @@ export const instractor = [
     img: instractor6,
     name: "মোসাঃ আশা খাতুন",
     des: "অফিস অ্যাপ্লিকেশন",
+  },
+
+  {
+    img: instractor8,
+    name: "মোঃ মামুন আহমেদ",
+    des: "ইলেকট্রিক্যাল হাউজ ওয়্যারিং",
+  },
+
+  {
+    img: instractor7,
+    name: "মোঃ আব্দুর রাজ্জাক",
+    des: "ড্রাইভিং কাম অটো মেকানিকস",
   },
 ];

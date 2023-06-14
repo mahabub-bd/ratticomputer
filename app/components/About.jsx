@@ -1,10 +1,10 @@
-import { about } from "@/public";
+import { about, shape3 } from "@/public";
 import Image from "next/image";
 import styles from "../styles/style";
 
 const About = () => {
   return (
-    <div className id="about">
+    <div id="about" className="relative">
       <section className={`${styles.boxWidth} ${styles.paddingY} mx-auto`}>
         <h2 className={`text-center ${styles.heading2} font-bangla `}>
           রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট সম্পর্কে
@@ -47,6 +47,7 @@ const About = () => {
           </div>
         </div>
       </section>
+      <Image src={shape3} alt="about" className="absolute z-[-50] bottom-0 left-0" />
     </div>
   );
 };

@@ -10,7 +10,7 @@ import { courses } from "../constants";
 const Courses = () => {
   return (
     <div id="courses">
-      <div className={`${styles.boxWidth}`}>
+      <div className={`${styles.boxWidth} `}>
         <h2 className={`${styles.heading2} text-center my-4 font-bangla`}>
           আমাদের কোর্সসমূহ
         </h2>

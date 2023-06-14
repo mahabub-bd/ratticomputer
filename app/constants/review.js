@@ -4,7 +4,7 @@ export const review = [
   {
     id: "feedback-1",
     content:
-      "Mahi computer best and professional training center in the Dhaka city. I like so much.  All the teacher are good.  environment also  good for studies. Teaching capable nice.   that is very essential.",
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
     name: "Saddam Hossain",
     title: "Student",
     img: student1,
@@ -20,7 +20,7 @@ export const review = [
   {
     id: "feedback-3",
     content:
-      "This training really best  training center in this area of gulshan, Badda, Vatara thana. among over the dhaka city. But their videos quality  not good but training all courses  advanced level . I like ",
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional. ",
     name: "Azeen Nohor",
     title: "Student",
     img: student3,
@@ -28,7 +28,7 @@ export const review = [
   {
     id: "feedback-",
     content:
-      "This training really best  training center in this area of gulshan, Badda, Vatara thana. among over the dhaka city. But their videos quality  not good but training all courses  advanced level . I like ",
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional. ",
     name: "Azeen Nohor",
     title: "Student",
     img: student3,
@@ -36,7 +36,7 @@ export const review = [
   {
     id: "feedback-5",
     content:
-      "This training really best  training center in this area of gulshan, Badda, Vatara thana. among over the dhaka city. But their videos quality  not good but training all courses  advanced level . I like ",
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional. ",
     name: "Azeen Nohor",
     title: "Student",
     img: student3,
@@ -45,7 +45,7 @@ export const review = [
   {
     id: "feedback-6",
     content:
-      "This training really best  training center in this area of gulshan, Badda, Vatara thana. among over the dhaka city. But their videos quality  not good but training all courses  advanced level . I like ",
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
     name: "Azeen Nohor",
     title: "Student",
     img: student3,

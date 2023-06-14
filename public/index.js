@@ -54,7 +54,11 @@ import instractor4 from "./images/instractor4.jpg";
 
 import instractor5 from "./images/instractor5.jpg";
 
-import instractor6 from "./images/instractor6.jpg"
+import instractor6 from "./images/instractor6.jpg";
+
+import instractor7 from "./images/instractor7.jpg";
+
+import instractor8 from "./images/instractor8.jpg";
 
 import rating from "./images/rating.png";
 
@@ -72,9 +76,22 @@ import day from "./images/clock.png";
 
 import signal from "./images/signal.png";
 
+import course1 from "./images/course-1.jpg";
+import course2 from "./images/course-2.jpg";
+import course3 from "./images/course-3.jpg";
+import course4 from "./images/course-4.jpg";
+import course5 from "./images/course-5.jpg";
+import course6 from "./images/course-6.jpg";
+import course7 from "./images/course-7.jpg";
+import course8 from "./images/course-8.jpg";
+import course9 from "./images/course-9.jpg";
+import course10 from "./images/course-10.jpg";
+
 import shape from "./images/shape.svg";
 
 import shape2 from "./images/shape-2.svg";
+
+import shape3 from "./images/banner-3.png";
 
 import location from "./images/location.svg";
 
@@ -90,10 +107,8 @@ import gallery_5 from "./images/gallary2.jpg";
 
 import gallery_6 from "./images/gallary3.jpg";
 
-
 import gallery_7 from "./images/gallary-1 (7).jpg";
 import gallery_8 from "./images/gallary-1 (8).jpg";
-
 
 import nrb from "./images/nrbbank.png";
 
@@ -141,6 +156,18 @@ export {
   instractor4,
   instractor5,
   instractor6,
+  instractor7,
+  instractor8,
+  course1,
+  course2,
+  course3,
+  course4,
+  course5,
+  course6,
+  course7,
+  course8,
+  course9,
+  course10,
   rating,
   student1,
   student2,
@@ -152,6 +179,7 @@ export {
   autocad,
   shape,
   shape2,
+  shape3,
   gallery_1,
   gallery_2,
   gallery_3,
@@ -160,6 +188,4 @@ export {
   gallery_6,
   gallery_7,
   gallery_8,
-
-
 };

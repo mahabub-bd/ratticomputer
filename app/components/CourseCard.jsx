@@ -2,6 +2,7 @@ import { lessonimg, rating, signal, day } from "@/public";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import styles from "../styles/style";
 
 const CourseCard = ({
   courseImg,
@@ -19,9 +20,9 @@ const CourseCard = ({
   return (
     /* courseImage, alt,link, tag,title,lesson,duration,instractorname,photo,price*/
 
-      <div className="shadow-2xl rounded-md  hover:scale-95 cursor-pointer">
+      <div className={`shadow-2xl rounded-md  hover:scale-95 cursor-pointer `}>
         <div>
-          <Image src={courseImg} className="w-[360px]  " alt={courseImgalt} />
+          <Image src={courseImg} className="w-[400px] h-[300px]  " alt={courseImgalt} priority />
         </div>
         <div className="flex justify-between items-center p-2 mt-2 ">
           <p className="text-[14px]">
@@ -32,12 +33,12 @@ const CourseCard = ({
             />
             4.9/31
           </p>
-          <Link
-            href={link}
+          <p
+         
             className={`${tagbg} text-white  font-light rounded-md px-2 py-1  text-[14px]`}
           >
             {tag}
-          </Link>
+          </p>
         </div>
         <div>
           <p className="text-center font-semibold text-[20px] text-blue-700">

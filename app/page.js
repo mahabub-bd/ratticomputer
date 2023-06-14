@@ -32,10 +32,11 @@ const HomePage = () => {
       <About />
       <Stats />
       <Categories />
-     <Instractor/>
-     
+      <Courses />
+      <Instractor />
+      <Review />
       <Gallery />
-     
+      <Partners />
       <Contact />
       <Map />
     </div>
