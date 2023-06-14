@@ -2,11 +2,9 @@ import menu from "./images/menu.svg";
 
 import close from "./images/close.svg";
 
-import logo from "./images/logo_dark.webp";
+import logo from "./images/logo_dark.png";
 
-import logodark from "./images/logo_white.webp";
 
-import paymentapp from "./images/payment.webp";
 
 import facebook from "./images/facebook.svg";
 
@@ -48,13 +46,9 @@ import ict from "./images/textbook.png";
 
 import instractor1 from "./images/instractor1.jpg";
 
-import instractor2 from "./images/instractor2.jpg";
 
-import instractor3 from "./images/instractor3.jpg";
 
-import instractor4 from "./images/instractor4.jpg";
 
-import instractor5 from "./images/instractor5.jpg";
 
 import rating from "./images/rating.png";
 
@@ -114,13 +108,16 @@ import bteb from "./images/bteb.png";
 
 import gov from "./images/gov.png";
 
+import about from "./images/payment.webp"
+
 export {
   computer,
+  about,
   nrb,
   mtb,
   bteb,
   gov,
-  paymentapp,
+
   email,
   phone,
   location,
@@ -130,7 +127,7 @@ export {
   menu,
   close,
   logo,
-  logodark,
+
   facebook,
   twitter,
   instagram,
@@ -149,10 +146,8 @@ export {
   digital,
   ict,
   instractor1,
-  instractor2,
-  instractor3,
-  instractor4,
-  instractor5,
+
+ 
   rating,
   student1,
   student2,

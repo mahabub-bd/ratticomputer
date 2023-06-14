@@ -1,4 +1,4 @@
-import { paymentapp } from "@/public";
+import { about } from "@/public";
 import Image from "next/image";
 import styles from "../styles/style";
 
@@ -39,7 +39,7 @@ const About = () => {
             data-aos="fade-right"
           >
             <Image
-              src={paymentapp}
+              src={about}
               alt="paymentapp "
               className="w-[80%] rounded-md shadow-md"
               priority

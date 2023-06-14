@@ -13,7 +13,7 @@ export const instractor = [
     des: "ICT Teacher",
   },
   {
-    img: instractor3,
+    img: instractor1,
     name: "Md Alamin Hossain",
     des: "Office Application ",
   },
@@ -23,7 +23,7 @@ export const instractor = [
     des: "Graphics Designer",
   },
   {
-    img: instractor5,
+    img: instractor1,
     name: "Judy J. Shuler",
     des: "Auto Cad Instractor ",
   },
