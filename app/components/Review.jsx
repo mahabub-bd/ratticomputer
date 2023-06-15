@@ -10,7 +10,7 @@ const Review = () => {
       <h2 className={`${styles.heading2} font-bangla text-center my-4`}>
         কোর্স সম্পর্কে লার্নারদের অভিমত
       </h2>
-      <p className="font-bangla text-center text-[18px]">
+      <p className="font-bangla text-center text-[18px] p-2">
         লার্নাররা সর্বদাই আমাদের প্রতি তাদের ভালবাসা প্রকাশ করেছেন
       </p>
       <div

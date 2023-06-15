@@ -2,7 +2,7 @@ import { stats } from "../constants";
 import styles from "../styles/style";
 
 const Stats = () => (
-  <div className=" h-full py-4 bg-blue-50 ">
+  <div className=" h-full py-4 bg-blue-50 p-2 ">
     <h4 className={`${styles.heading2} text-center font-bangla `}>
       এক নজরে আমাদের সফলতা
     </h4>

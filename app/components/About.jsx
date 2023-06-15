@@ -7,7 +7,7 @@ const About = () => {
     <div id="about" className="relative">
       <section className={`${styles.boxWidth} ${styles.paddingY} mx-auto`}>
         <h2 className={`text-center ${styles.heading2} font-bangla `}>
-          রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট সম্পর্কে
+          আমাদের ট্রেনিং ইনস্টিটিউট সম্পর্কে
         </h2>
 
         <div className={`flex md:flex-row flex-col ${styles.paddingY}`}>
