@@ -11,7 +11,7 @@ const Review = () => {
         কোর্স সম্পর্কে লার্নারদের অভিমত
       </h2>
       <p className="font-bangla text-center text-[18px]">
-        লার্নাররা সর্বদাই মাহি কম্পিউটার এর প্রতি তাদের ভালবাসা প্রকাশ করেছেন
+        লার্নাররা সর্বদাই আমাদের প্রতি তাদের ভালবাসা প্রকাশ করেছেন
       </p>
       <div
         className="flex flex-wrap  justify-center w-full  "
