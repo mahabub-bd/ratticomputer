@@ -73,7 +73,7 @@ const Navbar = () => {
             <Image
               src={logo}
               alt="qpay__headerlogo"
-              className="w-[60px]  object-contain"
+              className="w-[50px]  object-contain"
               priority
             />
           </Link>
