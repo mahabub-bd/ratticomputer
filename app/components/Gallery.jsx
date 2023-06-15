@@ -4,7 +4,7 @@ import styles from "../styles/style";
 
 export default function Gallery() {
   return (
-    <div className={`{${styles.boxWidth} ${styles.paddingX}  id="gallery"`}>
+    <div className={`{${styles.boxWidth} ${styles.paddingX}`}  id="gallery">
       <h2 className={`${styles.heading2} text-center my-4 font-bangla`}>
         ইমেজ গ্যালারী
       </h2>

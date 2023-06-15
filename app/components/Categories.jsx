@@ -19,7 +19,7 @@ const Categories = () => {
           >
             <div className="flex flex-col  items-center justify-around flex-wrap p-2 ">
               <Image className="w-[80px]" src={item.img} alt={item.alt} />
-              <h3 className="text-slate-700 mt-3 font-bangla font-semibold xl:text-[16px]  xs:text-[12px]">
+              <h3 className="text-slate-700 mt-3 font-bangla font-semibold xl:text-[16px]  vxs:text-[12px]">
                 {item.title}
               </h3>
             </div>

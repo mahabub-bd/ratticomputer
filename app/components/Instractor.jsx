@@ -7,26 +7,26 @@ import { instractor} from "../constants";
 
 const Instractor = () => {
   return (
-    <div className={`${styles.boxWidth} my-5`}>
+    <div className={`${styles.boxWidth} my-5 lg:${styles.paddingX} xl:px-0`}>
       <h2 className={`${styles.heading2} text-center my-4 font-bangla`}>
         কোর্স ইন্সট্রাক্টর
       </h2>
 
       <div
-        className="flex flex-wrap my-10 justify-around   "
+        className="flex flex-wrap my-10 justify-evenly"
         data-aos="fade-up"
       >
         {instractor.map((item) => (
           <div
             key={item.des}
-            className="xs:w-[210px] xl:w-[250px]  m-2 rounded-lg flex flex-col justify-center items-center   hover:cursor-pointer"
+            className="xs:w-[210px] xl:w-[250px] lg:w-[250px] m-2 rounded-lg flex flex-col justify-center items-center   hover:cursor-pointer"
           >
             <div
               href={item.des}
               className="flex flex-col  justify-around flex-wrap p-3 "
             >
               <Image
-                className="w-[230px] h-[230px]  shadow-2xl rounded-md"
+                className="xl:w-[230px] lg:w-[250px] h-[250px]  shadow-2xl rounded-md"
                 src={item.img}
                 alt={item.des}
               />
