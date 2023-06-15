@@ -13,7 +13,7 @@ const Partners = () => (
       <div className="flex flex-wrap my-10 justify-around " data-aos="fade-up">
         {partners.map((item) => (
           <div
-            key={item.des}
+            key={item.alt}
             className="xs:w-[210px] xl:w-[240px]  m-2 rounded-lg   hover:cursor-pointer"
           >
             <div

@@ -76,6 +76,16 @@ import day from "./images/clock.png";
 
 import signal from "./images/signal.png";
 
+import carousel1 from "./images/Untitled.png";
+import carousel2 from "./images/Untitled2.png";
+import carousel3 from "./images/Rectangle3.png";
+import carousel4 from "./images/Rectangle4.png";
+
+import carouselmobile1 from "./images/carousel1mobile.webp";
+import carouselmobile2 from "./images/carousel2mobile.webp";
+import carouselmobile3 from "./images/carousel3mobile.webp";
+import carouselmobile4 from "./images/carousel4mobile.webp";
+
 import course1 from "./images/course-1.jpg";
 import course2 from "./images/course-2.jpg";
 import course3 from "./images/course-3.jpg";
@@ -103,12 +113,12 @@ import gallery_3 from "./images/gallary3.jpg";
 
 import gallery_4 from "./images/gallary1.jpg";
 
-import gallery_5 from "./images/gallary2.jpg";
+import gallery_5 from "./images/gallary5.jpg";
 
-import gallery_6 from "./images/gallary3.jpg";
+import gallery_6 from "./images/gallary6.jpg";
 
-import gallery_7 from "./images/gallary-1 (7).jpg";
-import gallery_8 from "./images/gallary-1 (8).jpg";
+import gallery_7 from "./images/gallary1.jpg";
+import gallery_8 from "./images/gallary2.jpg";
 
 import nrb from "./images/nrbbank.png";
 
@@ -121,6 +131,14 @@ import gov from "./images/gov.png";
 import about from "./images/payment.webp";
 
 export {
+  carousel1,
+  carousel2,
+  carousel3,
+  carousel4,
+  carouselmobile1,
+  carouselmobile2,
+  carouselmobile3,
+  carouselmobile4,
   computer,
   about,
   nrb,

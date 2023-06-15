@@ -39,9 +39,13 @@ import ContactForm from "./ContactForm";
 import Partners from "./Partners";
 
 import Photo from "./Photo";
+import Carousel from "./Carousel";
+
+
 
 export {
   Navbar,
+  Carousel,
   Gallery,
   Blog,
   Contact,

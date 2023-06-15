@@ -14,13 +14,13 @@ export const instractor = [
   },
   {
     img: instractor3,
-    name: "মোঃ জুয়েল রানা",
-    des: "গ্রাফিক্স ডিজাইনার",
+    name: "নূর হাসান",
+    des: "ডিজিটাল মার্কেটিং",
   },
   {
     img: instractor4,
-    name: "নূর হাসান",
-    des: "ডিজিটাল মার্কেটিং",
+    name: "মোঃ জুয়েল রানা",
+    des: "গ্রাফিক্স ডিজাইনার",
   },
   {
     img: instractor5,

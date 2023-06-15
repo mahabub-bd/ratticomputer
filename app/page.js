@@ -17,6 +17,7 @@ import {
   Stats,
   Gallery,
   Partners,
+  Carousel,
 } from "./components";
 
 const HomePage = () => {
@@ -26,9 +27,9 @@ const HomePage = () => {
 
   return (
     <div className=" w-full overflow-hidden scroll-smooth ">
-      <Marquee />
+      
 
-      <Hero />
+     <Carousel/>
       <About />
       <Stats />
       <Categories />

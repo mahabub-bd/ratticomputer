@@ -11,9 +11,13 @@ import { review } from "./review";
 import { courses } from "./courses";
 import { partners } from "./partners";
 import { gallery } from "./gallery";
+import { slides } from "./slides";
+
+
 
 export {
   partners,
+  slides,
   footerLinks,
   gallery,
   navLinks,
