@@ -20,15 +20,15 @@ function Carousel() {
       <Image
         className="hidden md:block object-cover  w-full h-full "
         alt={`carouselimage${currentIndex}`}
-        data-src={slides[currentIndex].url}
+        
         src={slides[currentIndex].url}
         priority
       />
 
       <Image
-        className=" block md:hidden object-cover  aspect-2x1  w-full h-full"
+        className="block md:hidden object-cover  aspect-2x1  w-full h-full"
         alt={`carouselimage${currentIndex}`}
-        data-src={slides[currentIndex].mobileurl}
+      
         src={slides[currentIndex].mobileurl}
         priority
       />

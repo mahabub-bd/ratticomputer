@@ -2,7 +2,7 @@ import menu from "./images/menu.svg";
 
 import close from "./images/close.svg";
 
-import logo from "./images/logo_dark.png";
+import logo from "./images/logo_dark.webp";
 
 import facebook from "./images/facebook.svg";
 
@@ -71,8 +71,6 @@ import student2 from "./images/people02.png";
 import student3 from "./images/people03.png";
 
 import courseweb from "./images/courseweb.webp";
-
-import computer from "./images/computer.png";
 
 import lessonimg from "./images/chapter.png";
 
@@ -143,7 +141,6 @@ export {
   carouselmobile2,
   carouselmobile3,
   carouselmobile4,
-  computer,
   about,
   nrb,
   mtb,

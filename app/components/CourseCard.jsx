@@ -21,7 +21,7 @@ const CourseCard = ({
       <div>
         <Image
           src={courseImg}
-          className="xl:w-[380px] md:w-[350px] h-[250px]  md:p-2 lg:p-0 "
+          className="xl:w-[380px] xs:w-[350px] h-[250px]  md:p-2 lg:p-0 "
           alt={courseImgalt}
           priority
         />

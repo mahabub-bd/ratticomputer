@@ -145,19 +145,23 @@
 }
 
 .bg-stat-4 {
-  background-color: rgba(236, 248, 236, 1);
+  /* background-color: rgba(236, 248, 236, 1); */
+  background: radial-gradient(115.08% 115.75% at -29.83% -32.23%,#ffdedd 0,snow 100%);
 }
 
 .bg-stat-3 {
-  background-color: rgba(238, 246, 250, 1);
+  /* background-color: rgba(238, 246, 250, 1); */
+  background: radial-gradient(118.66% 116.2% at -27.81% -29.39%,#fff7d3 0,#fffdf7 100%);
 }
 
 .bg-stat-2 {
-  background-color: rgba(255, 243, 237, 1);
+  /* background-color: rgba(255, 243, 237, 1); */
+  background: radial-gradient(115.44% 115.84% at -27.81% -29.39%,#defffd 0,#cbf0ee .01%,#f5fffe 100%);
 }
 
 .bg-stat-1 {
-  background-color: rgba(254, 236, 244, 1);
+  /* background-color: rgba(254, 236, 244, 1); */
+      background: radial-gradient(127.81% 126.83% at -27.81% -29.39%,#e1dfff 0,#e0ddff .01%,#fafaff 100%);
 }
 
 .animate-charcter {
