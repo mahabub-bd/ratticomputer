@@ -20,47 +20,49 @@ import phone from "./images/phone.svg";
 
 import email from "./images/email.svg";
 
-import graphics from "./images/graphics.png";
+import graphics from "./images/graphics.webp";
 
 import cad from "./images/auto-cad.webp";
 
-import office from "./images/office-application.png";
+import office from "./images/office-application.webp";
 
-import digital from "./images/social-media.png";
+import digital from "./images/social-media.webp";
 
-import mechanic from "./images/mechanic.png";
+import mechanic from "./images/mechanic.webp";
 
-import english from "./images/teacher.png";
+import english from "./images/teacher.webp";
 
-import autocad from "./images/cad.png";
+import autocad from "./images/auto-cad.webp";
 
-import care from "./images/donation.png";
+import care from "./images/donation.webp";
 
-import dressmake from "./images/sewing.png";
+import dressmake from "./images/sewing.webp";
 
-import korean from "./images/korean.png";
+import korean from "./images/korean.webp";
 
-import housewiring from "./images/broken-wire.png";
+import housewiring from "./images/broken-wire.webp";
 
-import ict from "./images/textbook.png";
+import ict from "./images/textbook.webp";
 
-import instractor1 from "./images/instractor1.jpg";
+import instractor1 from "./images/instractor1.webp";
 
-import instractor2 from "./images/instractor2.jpg";
+import instractor2 from "./images/instractor2.webp";
 
-import instractor3 from "./images/instractor3.jpg";
+import instractor3 from "./images/instractor3.webp";
 
-import instractor4 from "./images/instractor4.jpg";
+import instractor4 from "./images/instractor4.webp";
 
-import instractor5 from "./images/instractor5.jpg";
+import instractor5 from "./images/instractor5.webp";
 
-import instractor6 from "./images/instractor6.jpg";
+import instractor6 from "./images/instractor6.webp";
 
-import instractor7 from "./images/instractor7.jpg";
+import instractor7 from "./images/instractor7.webp";
 
-import instractor8 from "./images/instractor8.jpg";
-import instractor9 from "./images/instractor9.jpg";
-import instractor10 from "./images/instractor10.jpg";
+import instractor8 from "./images/instractor8.webp";
+
+import instractor9 from "./images/instractor9.webp";
+
+import instractor10 from "./images/instractor10.webp";
 
 import rating from "./images/rating.png";
 
@@ -88,16 +90,16 @@ import carouselmobile2 from "./images/carousel2mobile.webp";
 import carouselmobile3 from "./images/carousel3mobile.webp";
 import carouselmobile4 from "./images/carousel4mobile.webp";
 
-import course1 from "./images/course-1.jpg";
-import course2 from "./images/course-2.jpg";
-import course3 from "./images/course-3.jpg";
-import course4 from "./images/course-4.jpg";
-import course5 from "./images/course-5.jpg";
-import course6 from "./images/course-6.jpg";
-import course7 from "./images/course-7.jpg";
-import course8 from "./images/course-8.jpg";
-import course9 from "./images/course-9.jpg";
-import course10 from "./images/course-10.jpg";
+import course1 from "./images/course-1.webp";
+import course2 from "./images/course-2.webp";
+import course3 from "./images/course-3.webp";
+import course4 from "./images/course-4.webp";
+import course5 from "./images/course-5.webp";
+import course6 from "./images/course-6.webp";
+import course7 from "./images/course-7.webp";
+import course8 from "./images/course-8.webp";
+import course9 from "./images/course-9.webp";
+import course10 from "./images/course-10.webp";
 
 import shape from "./images/shape.svg";
 
@@ -107,20 +109,20 @@ import shape3 from "./images/banner-3.png";
 
 import location from "./images/location.svg";
 
-import gallery_1 from "./images/gallary1.jpg";
+import gallery_1 from "./images/gallary1.webp";
 
-import gallery_2 from "./images/gallary2.jpg";
+import gallery_2 from "./images/gallary2.webp";
 
-import gallery_3 from "./images/gallary3.jpg";
+import gallery_3 from "./images/gallary3.webp";
 
-import gallery_4 from "./images/gallary1.jpg";
+import gallery_4 from "./images/gallary1.webp";
 
-import gallery_5 from "./images/gallary5.jpg";
+import gallery_5 from "./images/gallary5.webp";
 
-import gallery_6 from "./images/gallary6.jpg";
+import gallery_6 from "./images/gallary6.webp";
 
-import gallery_7 from "./images/gallary3.jpg";
-import gallery_8 from "./images/gallary8.jpg";
+import gallery_7 from "./images/gallary3.webp";
+import gallery_8 from "./images/gallary8.webp";
 
 import nrb from "./images/nrbbank.png";
 
