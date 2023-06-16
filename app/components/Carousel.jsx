@@ -10,12 +10,11 @@ function Carousel() {
 
   return (
     <div className="m-auto relative group   w-[100%] ">
-      <h1
-        className={`  ${styles.heading2} absolute animate-charcter font-bangla`}
-        id="center"
-      >
-        রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট
-      </h1>
+      <div className="absolute" id="center">
+        <h1 className={`  ${styles.heading2}  animate-charcter font-bangla`}>
+          রাশিদা আহম্মেদ কারিগরি ট্রেনিং ইনস্টিটিউট
+        </h1>
+      </div>
 
       <Image
         className="hidden md:block object-cover  w-full h-full "
@@ -24,7 +23,7 @@ function Carousel() {
         src={slides[currentIndex].url}
         priority
       />
-
+     
       <Image
         className=" block md:hidden object-cover  aspect-2x1  w-full h-full"
         alt={`carouselimage${currentIndex}`}

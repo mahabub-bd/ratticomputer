@@ -59,6 +59,8 @@ import instractor6 from "./images/instractor6.jpg";
 import instractor7 from "./images/instractor7.jpg";
 
 import instractor8 from "./images/instractor8.jpg";
+import instractor9 from "./images/instractor9.jpg";
+import instractor10 from "./images/instractor10.jpg";
 
 import rating from "./images/rating.png";
 
@@ -117,8 +119,8 @@ import gallery_5 from "./images/gallary5.jpg";
 
 import gallery_6 from "./images/gallary6.jpg";
 
-import gallery_7 from "./images/gallary1.jpg";
-import gallery_8 from "./images/gallary2.jpg";
+import gallery_7 from "./images/gallary3.jpg";
+import gallery_8 from "./images/gallary8.jpg";
 
 import nrb from "./images/nrbbank.png";
 
@@ -176,6 +178,8 @@ export {
   instractor6,
   instractor7,
   instractor8,
+  instractor9,
+  instractor10,
   course1,
   course2,
   course3,

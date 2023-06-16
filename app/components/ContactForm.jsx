@@ -7,29 +7,24 @@ const ContactForm = () => {
   const [message,setMassage]=useState(false)
   const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+ 
+const sendEmail = async (e) => {
+  e.preventDefault();
 
-    emailjs
-      .sendForm(
-        "service_3ihl5qk",
-        "template_rvjqf6g",
-        form.current,
-        "tb3LqvIh15hRE33Iz"
-      )
-      .then(
-        (result) => {
-          console.log(result.text);
-          
-          setMassage(true)
-          
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
-  };
+  try {
+    const result = await emailjs.sendForm(
+      "service_3ihl5qk",
+      "template_rvjqf6g",
+      form.current,
+      "tb3LqvIh15hRE33Iz"
+    );
 
+    console.log(result.text);
+    setMassage(true);
+  } catch (error) {
+    console.log(error.text);
+  }
+};
   return (
     <div className="w-full mx-auto sm:px-4 ">
       <div className="contactForm">

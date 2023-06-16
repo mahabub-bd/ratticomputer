@@ -19,7 +19,7 @@ const Instractor = () => {
         {instractor.map((item) => (
           <div
             key={item.des}
-            className="vxs:w-[160px] xl:w-[250px] lg:w-[240px] m-2 rounded-lg flex flex-col justify-center items-center   hover:cursor-pointer"
+            className="vxs:w-[160px] xl:w-[220px] lg:w-[220px] m-2 rounded-lg flex flex-col justify-center items-center   hover:cursor-pointer"
           >
             <div
               href={item.des}
