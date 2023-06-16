@@ -25,7 +25,7 @@ const Footer = () => {
             </Link>
 
             <div
-              className={`${styles.paragraph} mt-2 max-w-[310px] text-white flex`}
+              className={`${styles.paragraph} mt-1 max-w-[310px] text-white flex`}
             >
               <Image src={phone} alt="phone_icon" className="w-[18px] mr-3" />
               <a className=" text-[16px]" href="tel:+88017314050002">
@@ -33,7 +33,7 @@ const Footer = () => {
               </a>
             </div>
             <div
-              className={`${styles.paragraph} mt-2 max-w-[310px] text-white flex`}
+              className={`${styles.paragraph} mt-1 max-w-[310px] text-white flex`}
             >
               <Image src={email} alt="phone_icon" className="w-[18px] mr-3" />
               <a className="text-[16px]" href="mailto:info@rattibd.com">
@@ -41,7 +41,7 @@ const Footer = () => {
               </a>
             </div>
             <div
-              className={`${styles.paragraph} mt-2 max-w-[500px] text-white flex`}
+              className={`${styles.paragraph} mt-1 max-w-[500px] text-white flex`}
             >
               <Image
                 src={location}
@@ -49,7 +49,7 @@ const Footer = () => {
                 className="w-[18px] mr-3"
               />
               <a className="text-[16px]">
-                M. A MANNAN TOWER, Palashbari, Ashulia, Savar, Dhaka
+                MA Mannan Tower, Palashbari, Ashulia, Savar, Dhaka
               </a>
             </div>
           </div>
@@ -83,7 +83,7 @@ const Footer = () => {
           className={`${styles.boxWidth}  flex items-center justify-between vxs:flex-col-reverse lg:flex-row-reverse xl:flex-row-reverse   pt-6 border-t-[1px] border-t-[#3F3E45]`}
         >
           <p className="font-poppins font-light text-[14px] leading-[27px] text-white vxs:mt-4 xl:mt-0">
-            © 2023 Rashida Ahmed Technical Training Center All Rights Reserved
+            © 2023 Rashida Ahmed Technical Training Center 
           </p>
 
           <div className="flex flex-row  md:mt-4 mt-6 md:justify-center  xl:justify-end ">
