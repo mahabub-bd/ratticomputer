@@ -21,7 +21,7 @@ const CourseCard = ({
       <div>
         <Image
           src={courseImg}
-          className="xl:w-[380px] xs:w-[350px] h-[250px]  md:p-2 lg:p-0 "
+          className="xl:w-[380px] vxs:w-[350px] h-[250px]  md:p-2 lg:p-0 "
           alt={courseImgalt}
           priority
         />
@@ -72,7 +72,7 @@ const CourseCard = ({
           </p>
         </div>
 
-        <h6 className="text-[24px] font-semibold text-qpayone">BDT {price}</h6>
+        <p className="text-[24px] font-semibold text-qpayone">BDT {price}</p>
       </div>
     </div>
   );

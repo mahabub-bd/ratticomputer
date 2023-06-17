@@ -48,9 +48,9 @@ const Footer = () => {
                 alt="location_icon"
                 className="w-[18px] mr-3"
               />
-              <a className="text-[16px]">
+              <p className="text-[16px]">
                 MA Mannan Tower, Palashbari, Ashulia, Savar, Dhaka
-              </a>
+              </p>
             </div>
           </div>
           <div className="flex-1 flex w-full flex-row justify-between  flex-wrap md:mt-0 mt-10">
