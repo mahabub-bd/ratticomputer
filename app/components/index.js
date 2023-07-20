@@ -4,6 +4,8 @@ import Footer from "./Footer";
 
 import About from "./About";
 
+import Ceo from "./Ceo"
+
 import TogglerMenu from "./TogglerMenu";
 
 import Courses from "./Courses";
@@ -38,7 +40,7 @@ import ContactForm from "./ContactForm";
 
 import Partners from "./Partners";
 
-import Photo from "./Photo";
+
 import Carousel from "./Carousel";
 
 
@@ -51,6 +53,7 @@ export {
   Contact,
   Footer,
   About,
+  Ceo,
   TogglerMenu,
   Marquee,
   Hero,
@@ -65,5 +68,5 @@ export {
   ContactForm,
   Map,
   Partners,
-  Photo,
+
 };

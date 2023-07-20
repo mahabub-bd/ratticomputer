@@ -121,6 +121,8 @@ import gallery_6 from "./images/gallary6.webp";
 
 import gallery_7 from "./images/gallary3.webp";
 import gallery_8 from "./images/gallary8.webp";
+import gallery_9 from "./images/gallary9.webp.jpg";
+import gallery_10 from "./images/gallary10.webp.jpg";
 
 import nrb from "./images/nrbbank.png";
 
@@ -209,4 +211,6 @@ export {
   gallery_6,
   gallery_7,
   gallery_8,
+  gallery_9,
+  gallery_10
 };

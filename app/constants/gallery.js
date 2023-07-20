@@ -1,4 +1,4 @@
-import { gallery_1,  gallery_2, gallery_3, gallery_4, gallery_5, gallery_6, gallery_7, gallery_8,  } from "@/public";
+import { gallery_1,  gallery_10,  gallery_2, gallery_3, gallery_4, gallery_5, gallery_6, gallery_7, gallery_8, gallery_9,  } from "@/public";
 
 
 export const gallery = [
@@ -40,6 +40,12 @@ export const gallery = [
     img: gallery_8,
     alt: "gallery_8",
   },
-
- 
+  {
+    img: gallery_9,
+    alt: "gallery_9",
+  },
+  {
+    img: gallery_10,
+    alt: "gallery_10",
+  },
 ];

@@ -13,6 +13,7 @@ import {
   Instractor,
   Map,
   Marquee,
+  Ceo,
   Review,
   Stats,
   Gallery,
@@ -27,9 +28,9 @@ const HomePage = () => {
 
   return (
     <div className=" w-full overflow-hidden scroll-smooth ">
-      
+      <Carousel />
 
-     <Carousel/>
+      <Ceo />
       <About />
       <Stats />
       <Categories />

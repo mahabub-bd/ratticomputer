@@ -12,7 +12,7 @@ export default function Gallery() {
         {gallery.map((item) => (
           <div key={item.alt} className=" ">
             <Image
-              className="rounded-sm shadow-lg  object-contain"
+              className="rounded-sm shadow-lg  object-contain w-[600px] h-[400px]"
               src={item.img}
               alt={item.alt}
             />
