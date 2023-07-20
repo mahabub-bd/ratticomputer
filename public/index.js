@@ -125,7 +125,7 @@ import gallery_5 from "./images/gallary5.webp";
 
 import gallery_6 from "./images/gallary6.webp";
 
-import gallery_7 from "./images/gallary3.webp";
+import gallery_7 from "./images/gallary7.webp.jpg";
 import gallery_8 from "./images/gallary8.webp";
 import gallery_9 from "./images/gallary9.webp.jpg";
 import gallery_10 from "./images/gallary10.webp.jpg";
