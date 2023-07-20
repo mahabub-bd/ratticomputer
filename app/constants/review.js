@@ -1,11 +1,11 @@
-import { student2, student1,student3 } from "@/public";
+import { student2, student1,student3, student4, student5, student6, student7, student8, student9 } from "@/public";
 
 export const review = [
   {
     id: "feedback-1",
     content:
       "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
-    name: "Saddam Hossain",
+    name: "Fahim Hossain Robin",
     title: "Student",
     img: student1,
   },
@@ -13,41 +13,65 @@ export const review = [
     id: "feedback-2",
     content:
       "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+    name: "Rozatul Jannat Roza",
+    title: "Student",
     img: student2,
   },
   {
     id: "feedback-3",
     content:
       "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional. ",
-    name: "Azeen Nohor",
+    name: "Aporna Akter",
     title: "Student",
     img: student3,
   },
   {
-    id: "feedback-",
+    id: "feedback-4",
     content:
       "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional. ",
-    name: "Azeen Nohor",
+    name: "Tahazzot Tawsin",
     title: "Student",
-    img: student3,
+    img: student4,
   },
   {
     id: "feedback-5",
     content:
       "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional. ",
-    name: "Azeen Nohor",
+    name: "Mukta Akter",
     title: "Student",
-    img: student3,
+    img: student5,
   },
 
   {
     id: "feedback-6",
     content:
       "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
-    name: "Azeen Nohor",
+    name: "Ismail Hossain",
     title: "Student",
-    img: student3,
+    img: student6,
+  },
+  {
+    id: "feedback-7",
+    content:
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
+    name: "Mohona Akter",
+    title: "Student",
+    img: student7,
+  },
+  {
+    id: "feedback-8",
+    content:
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
+    name: "Seuly Akter",
+    title: "Student",
+    img: student8,
+  },
+  {
+    id: "feedback-9",
+    content:
+      "This training is professional. I have completed this course and it's was very helpful for me. This is one of the best training center that I have ever seen. The mentors are really skilled and professional.",
+    name: "Mottakim Hossain",
+    title: "Student",
+    img: student9,
   },
 ];

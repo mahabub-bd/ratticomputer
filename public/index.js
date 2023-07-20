@@ -66,9 +66,15 @@ import instractor10 from "./images/instractor10.webp";
 
 import rating from "./images/rating.png";
 
-import student1 from "./images/people02.png";
-import student2 from "./images/people02.png";
-import student3 from "./images/people03.png";
+import student1 from "./images/student1.jpg";
+import student2 from "./images/student2.jpg";
+import student3 from "./images/student3.jpg";
+import student4 from "./images/student4.jpg";
+import student5 from "./images/student5.jpg";
+import student6 from "./images/student6.jpg";
+import student7 from "./images/student7.jpg";
+import student8 from "./images/student8.jpg";
+import student9 from "./images/student9.jpg";
 
 import courseweb from "./images/courseweb.webp";
 
@@ -195,6 +201,12 @@ export {
   student1,
   student2,
   student3,
+  student4,
+  student5,
+  student6,
+  student7,
+  student8,
+  student9,
   courseweb,
   lessonimg,
   day,

@@ -10,7 +10,7 @@ const ReviewCard = ({ name, title, content, img }) => {
         <Image src={rating} alt="quote" className=" w-[24px] object-contain" />
         <p>
          
-          <span className="font-semibold mr-2">4.8</span>Rating For Auto Cad
+          <span className="font-semibold mr-2">4.8</span>Rating
         </p>
       </div>
       <p
