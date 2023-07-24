@@ -33,6 +33,7 @@ const About = () => {
               ইংলিশ,কোরিয়ান ভাষা, ইলেকট্রিক্যাল হাউজ ওয়্যারিং কোর্স ইত্যাদি
               বিষয়ে প্রশিক্ষণ প্রদান করে থাকে ।
             </p>
+            
           </div>
           <div
             className={`flex flex-1 items-center xl:justify-end vxs:justify-center `}
@@ -47,7 +48,6 @@ const About = () => {
           </div>
         </div>
       </section>
-    
     </div>
   );
 };

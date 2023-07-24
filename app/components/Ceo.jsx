@@ -1,29 +1,18 @@
-import { about, gallery_3, shape3 } from "@/public";
+import { about, gallery_3, instractor1, shape3 } from "@/public";
 import Image from "next/image";
 import styles from "../styles/style";
 
 const About = () => {
   return (
-    <div  className="relative">
+    <div className="relative">
       <section className={`${styles.boxWidth} ${styles.paddingY} mx-auto`}>
         <h2 className={`text-center ${styles.heading2} font-bangla `}>
-       প্রধান নির্বাহী কর্মকর্তা ও অধ্যক্ষ এর বক্তব্য
+          প্রতিষ্ঠাতা পরিচালক ও অধ্যক্ষ এর বক্তব্য
         </h2>
 
         <div className={`flex md:flex-row flex-col`}>
           <div
-            className={`flex flex-1 items-center xl:justify-start vxs:justify-center `}
-            data-aos="fade-right"
-          >
-            <Image
-              src={gallery_3}
-              alt="paymentapp "
-              className="w-[90%] rounded-md shadow-md"
-              priority
-            />
-          </div>
-          <div
-            className="flex flex-col flex-1 sm:px-16 px-6 "
+            className="flex flex-col flex-1 sm:px-16 xl:px-0 "
             data-aos="fade-left"
           >
             <p className={`${styles.paragraph} mt-5 text-justify font-bangla`}>
@@ -44,6 +33,17 @@ const About = () => {
               ইংলিশ,কোরিয়ান ভাষা, ইলেকট্রিক্যাল হাউজ ওয়্যারিং কোর্স ইত্যাদি
               বিষয়ে প্রশিক্ষণ প্রদান করে থাকে ।
             </p>
+          </div>
+          <div
+            className={`flex flex-1 items-center xl:justify-end vxs:justify-center `}
+            data-aos="fade-right"
+          >
+            <Image
+              src={instractor1}
+              alt="paymentapp "
+              className="w-[40%] rounded-md shadow-md"
+              priority
+            />
           </div>
         </div>
       </section>
