@@ -12,7 +12,7 @@ const About = () => {
 
         <div className={`flex md:flex-row flex-col`}>
           <div
-            className="flex flex-col flex-1 sm:px-16 xl:px-0 "
+            className="flex flex-col flex-1 xl:px-0 sm:px-8 px-6"
             data-aos="fade-left"
           >
             <p className={`${styles.paragraph} mt-5 text-justify font-bangla`}>
