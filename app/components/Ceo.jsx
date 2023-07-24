@@ -41,7 +41,7 @@ const About = () => {
             <Image
               src={instractor1}
               alt="paymentapp "
-              className="w-[40%] rounded-md shadow-md"
+              className="w-[40%] rounded-md "
               priority
             />
           </div>
