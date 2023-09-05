@@ -39,7 +39,7 @@ export const courses = [
     duration: "3",
     instractorName: instractor[5].name,
     instractorphoto: instractor6,
-    price: 5000,
+    price: 4000,
   },
   {
     courseImg: course2,
@@ -131,7 +131,7 @@ export const courses = [
     duration: "3",
     instractorName: instractor[4].name,
     instractorphoto: instractor5,
-    price: 5000,
+    price: 2900,
   },
 
   {
@@ -145,7 +145,7 @@ export const courses = [
     duration: "3",
     instractorName: instractor[4].name,
     instractorphoto: instractor5,
-    price: 5000,
+    price: 15000,
   },
   {
     courseImg: course10,

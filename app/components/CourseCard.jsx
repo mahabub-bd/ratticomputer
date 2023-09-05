@@ -72,7 +72,7 @@ const CourseCard = ({
           </p>
         </div>
 
-        <p className="text-[24px] font-semibold text-qpayone">BDT {price}</p>
+        <p className="text-[22px] font-semibold text-qpayone">BDT {price}</p>
       </div>
     </div>
   );
